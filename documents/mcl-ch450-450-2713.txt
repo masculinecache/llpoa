@@ -1,0 +1,4 @@
+CHAPTER 450: CORPORATIONS (Corporations (Nonprofit Corp Act))
+MCL 450.2713: 
+
+450.2713 Sec. 713.(1) A subsidiary corporation that is a constituent corporation in a merger under section 711 shall obtain the approval of its shareholders or members in accordance with the applicable provisions of section 703a.(2) A parent corporation shall obtain approval of its shareholders or members for a merger under section 711 if either of the following applies:(a) Its articles of incorporation require shareholder or member approval of the merger.(b) Pursuant to section 703a, the plan of merger contains a provision that would amend any part of the articles of incorporation of the parent corporation into which a subsidiary corporation is being merged, or a subsidiary corporation is to be the surviving corporation of the merger.

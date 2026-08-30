@@ -1,0 +1,7 @@
+.git
+.github
+.env
+.env.*
+.no-mistakes
+node_modules
+frontend/node_modules

@@ -1,0 +1,62 @@
+services:
+  llpoa:
+    image: ghcr.io/masculinecache/llpoa:latest
+    container_name: llpoa-bylaw-search
+    ports:
+      - "8787:8080"
+    environment:
+      - PORT=8080
+      # Local document directory (text files). Mount a host directory to add/update docs without rebuilding.
+      - DOCUMENTS_DIR=/app/documents
+      # Google Doc ID (optional). Published Google Doc to fetch on startup.
+      - GOOGLE_DOC_ID=${GOOGLE_DOC_ID:-}
+      # Google API Key (optional). For unpublished docs via Docs API.
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY:-}
+      # OpenRouter API Key for AI Q&A mode.
+      # Get one at https://openrouter.ai/keys — free tier works with free models.
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY:-}
+      # Sentry DSN for error tracking (optional).
+      - SENTRY_DSN=${SENTRY_DSN:-}
+      # Sentry OTLP ingest endpoint (host:port), org id, and public key (optional).
+      # Required together with SENTRY_DSN to enable Sentry OTLP tracing.
+      - SENTRY_OTLP_HOST=${SENTRY_OTLP_HOST:-}
+      - SENTRY_ORG_ID=${SENTRY_ORG_ID:-}
+      - SENTRY_PUBLIC_KEY=${SENTRY_PUBLIC_KEY:-}
+      # Comma-separated Google Drive file IDs for bylaw documents.
+      - GDRIVE_FILE_IDS=${GDRIVE_FILE_IDS:-}
+      # LegiScan API key for live Michigan state legislative bill tracking (optional).
+      - LEGISCAN_API_KEY=${LEGISCAN_API_KEY:-}
+      # LegiScan state abbreviation to track (default: MI).
+      - LEGISCAN_STATE=${LEGISCAN_STATE:-}
+      # Optional LegiScan session id to pin (default: current active session).
+      - LEGISCAN_SESSION_ID=${LEGISCAN_SESSION_ID:-}
+    volumes:
+      # Mount a local documents directory to add/edit bylaws and other docs.
+      - ./documents:/app/documents
+    deploy:
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 256M
+        reservations:
+          cpus: "0.1"
+          memory: 128M
+    labels:
+      proxy.aliases: llpoa,llpoa-bylaw-search
+      proxy.llpoa.port: 8080
+      proxy.llpoa.alias: llpoa
+      # modify_request runs first (priority 0) to fix headers before OIDC middleware
+      proxy.llpoa.middlewares.modify_request.priority: 0
+      # Set X-Forwarded-Host so requestHost() can find it (IsFrontend may return true)
+      proxy.llpoa.middlewares.modify_request.set_headers.X-Forwarded-Host: "${PUBLIC_HOST:-localhost}"
+      # Neutralize X-Forwarded-Proto from Cloudflare's port-80 proxy to avoid HandleAuth's
+      # broken TLS redirect (r.TLS==nil && r.Header["X-Forwarded-Proto"]=="https" causes
+      # http.Redirect to r.URL.String() which produces "https:///" because r.URL.Host is empty)
+      proxy.llpoa.middlewares.modify_request.set_headers.X-Forwarded-Proto: ""
+      proxy.llpoa.middlewares.oidc: |
+        client_id: ${GOOGLE_OAUTH_CLIENT_ID:-}
+        client_secret: ${OAUTH_CLIENT_SECRET:-}
+        allowed_users:
+          - ${ALLOWED_USER:-}
+
+    restart: unless-stopped

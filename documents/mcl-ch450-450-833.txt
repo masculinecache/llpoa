@@ -1,0 +1,4 @@
+CHAPTER 450: CORPORATIONS (Corporations (Nonprofit Corp Act))
+MCL 450.833: 
+
+450.833 Sec. 3.(1) Except as otherwise provided in subsection (2) and section 4, this act applies to electronic records and electronic signatures relating to a transaction.(2) Except as otherwise provided in section 18a, this act does not apply to a transaction to the extent it is governed by either of the following:(a) A law governing the creation and execution of wills, codicils, or testamentary trusts.(b) Except as otherwise provided in subsection (3), the uniform commercial code, 1962 PA 174, MCL 440.1101 to 440.9994.(3) This act applies to a transaction to the extent it is governed by section 1206 or 1306 or article 2 or 2A of the uniform commercial code, 1962 PA 174, MCL 440.1206, 440.1306, and 440.2101 to 440.2982.(4) A transaction subject to this act is also subject to other applicable substantive law.

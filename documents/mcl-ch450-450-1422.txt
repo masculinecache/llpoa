@@ -1,0 +1,4 @@
+CHAPTER 450: CORPORATIONS (Corporations (Nonprofit Corp Act))
+MCL 450.1422: 
+
+450.1422 Sec. 422.A proxy which is entitled "irrevocable proxy", and which states that it is irrevocable, is irrevocable when it is held by any of the following or a nominee of any of the following:(a)A pledgee of or other holder of a security interest in the shares.(b)A person who has purchased or agreed to purchase the shares.(c)A creditor of the corporation who extends or continues credit to the corporation in consideration of the proxy.(d)A person who has contracted to perform services as a director, officer, or employee of the corporation, if a proxy is required by the contract of employment.(e)A person designated by or under an agreement under section 461. (f)A holder of any other proxy coupled with an interest.

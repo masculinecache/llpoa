@@ -1,0 +1,46 @@
+SECTION 21.48 SOLAR ENERGY SYSTEMS
+Added New 4.13.2021
+
+Otsego County allows for the effective and efficient use of solar energy systems. It is the intent of the County
+to permit these systems by regulating their siting, design, and installation to protect public health, safety, and
+welfare, and to ensure their compatibility with adjacent land uses. Solar energy systems shall comply with the
+provisions of this section and are only permitted as authorized by this section. [Ref: State of Michigan
+Battery Storage Regulations]
+21.48.1 Solar Energy Systems Classification
+Solar energy systems shall be classified as follows:
+• Small-Scale Solar Energy System: An Active Solar Energy System that occupies 1,750 square feet of
+grid surface area or less (equivalent to a rated nameplate capacity of about 10 kW DC or less).
+• Medium-Scale Solar Energy System: An Active Solar Energy System that occupies more than 1,750
+but less than 40,000 square feet of grid surface area (equivalent to a rated nameplate capacity of about 10 250 kW DC).
+• Large-Scale Solar Energy System: An Active Solar Energy System that occupies more than 40,000
+square feet of grid surface area (equivalent to a rated nameplate capacity of about 250kW DC or greater).
+Solar energy systems shall not be included in the maximum lot coverage calculation as detailed in Article 17.
+All Ground-Mounted Solar Energy Systems located in a R1, R2, R3, RR, FR, or AR Zoning District must meet
+a thirty foot (30’) setback from any residential structure as well as all other setback requirements detailed in
+Article 17.
+21.48.2 Small Scale Roof or Ground Mounted Solar Systems:
+The requirements for Small-Scale Roof or Ground-Mounted Solar Energy Systems shall be as follows:
+21.48.2.1 Roof-Mounted Solar Energy Systems – For all small-scale roof-mounted systems, the applicant
+shall provide:
+a. The shortest distance between the solar collector, associated components and all edges of the roof
+b. The distance between the solar collector, associated components and any other existing rooftop features
+such as chimneys, spires, access points, etc.
+c. The height of the solar collector and all associated components both from finished grade and where
+applicable, from the finished surface of the roof. [Ref Article 23]
+21.48.2.2 Small-Scale Ground-Mounted Solar Energy Systems – For all small ground-mounted systems,
+the applicant shall provide:
+a. The distance between the proposed solar collector, associated components and all property lines and
+existing on-site buildings and structures.
+b. The tallest finished height of the solar collector and associated components.
+c. Proposed changes to the landscape of the site, grading, vegetation clearing and planting, exterior lighting,
+screening vegetation or structures. [Ref Article 23]
+21.48.2.3 System Components – The Site Plan must include documentation of the major system
+components to be used, for example the panels, mounting system, and inverter.
+21.48.2.4 Installer Details – The Site Plan must include the name, address, and contact information for
+proposed system installer.
+21.48.2.5 Utility Notification - No grid-intertie photovoltaic system shall be installed until evidence has
+been given to the Planning Commission or Zoning Administrator that the owner has submitted
+XXI-60
+Table of Contents
+
+Otsego County Zoning Ordinance

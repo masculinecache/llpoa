@@ -1,0 +1,4 @@
+CHAPTER 450: CORPORATIONS (Corporations (Nonprofit Corp Act))
+MCL 450.1304: 
+
+450.1304 Sec. 304.(1)Bonds or shares convertible into shares of a corporation shall not be issued unless 1 of the following conditions is satisfied:(a)A sufficient number of authorized but unissued shares of the appropriate class or series are reserved by the board to be issued only in satisfaction of the conversion privileges of the convertible bonds or shares when issued.(b)The aggregate conversion privileges of the convertible bonds or shares when issued do not exceed the aggregate of any shares reserved under subdivision (a) and any additional shares which may be authorized by the board under subsection (3) of section 303.(2)Bonds which have been converted shall be canceled. Shares which have been converted shall be restored to the status of authorized but unissued shares, unless otherwise provided in the articles of incorporation.

@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+backend/static/
+backend/llpoa-server
+*.exe
+*.log
+server.pid
+.DS_Store
+.envrc
+mise.local.toml
+.opencode/
+.posthog-key

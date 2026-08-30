@@ -1,0 +1,49 @@
+21.47.6.2 Standards for Anemometer Towers
+The Planning Commission shall approve, or approve with conditions, an application for an anemometer
+tower only upon a finding that the proposed anemometer tower complies with all of the following applicable
+standards, and the approval standards as found in Article 19 of the Zoning Ordinance.
+a. Zoning District: Permitted Subject to Special Conditions in AR & FR.
+b. The minimum site area for an anemometer tower shall be as necessary to meet the required setbacks and
+any other standards of this section.
+c. All requirements of Article 19 of the Otsego County Zoning Ordinance shall be met.
+d. The maximum height of an anemometer tower shall be three hundred feet (300’).
+e. An anemometer tower shall meet a setback from any adjoining lot line and any adjoining public or
+private road or overhead utility line a distance equal to the one and one-half (1½) times the height of the
+anemometer tower as measured to the highest point. The setback shall be measured from the outermost
+point on the base of the anemometer tower, not the guy or support wires.
+f. The anemometer tower shall, subject to any applicable standards of the FAA, be a neutral color so as to
+reduce visual obtrusiveness. Excessively bright or neon colors are not acceptable. The Planning
+Commission, however, may approve an alternate color if the anemometer tower is located within an
+avian migratory route or if an alternate color would otherwise benefit the neighborhood.
+g. The anemometer tower shall not be artificially lighted unless required, in writing, by the FAA. Where the
+FAA requires lighting, the lighting shall be the lowest intensity allowable under FAA regulations, the
+fixtures shall be shielded and directed to the greatest extent possible to minimize glare and visibility from
+the ground, and no strobe lighting shall be permitted, unless expressly required by the FAA.
+h. The anemometer tower shall be designed and constructed in such a manner that access is limited, to the
+extent possible, to authorize personnel only.
+i. The anemometer tower shall be constructed and operated so that it does not interfere with television,
+radio, cellular telephone or microwave reception in neighboring areas. If degradation of television,
+radio, cellular telephone or microwave reception occurs as the result of the anemometer tower, the
+developer shall pay to correct the television, radio, and cellular telephone or microwave reception.
+j. An anemometer tower may be a lattice-style tower and may utilize guy wires, providing access
+limitations are maintained to prevent climbing by unauthorized persons.
+k. The anemometer tower shall have posted on the site in a visible, easily accessible location two (2) signs
+no more than 4 sq. ft. in area displaying an address and telephone number for emergency calls. The
+emergency telephone number shall allow a caller to contact a responsible individual to address
+emergencies at any time during or after regular business hours and on weekends or holidays. One (1)
+sign shall be located at the service drive entrance to the anemometer tower at the minimum setback
+distance.
+l. The anemometer tower shall have no advertising painted on or attached to the tower or any other
+structure of the anemometer.
+m. Structural integrity of all components not under the jurisdiction of the Michigan Building Code shall be
+certified by a professional engineer licensed in the State of Michigan. Certification shall include;
+verification that ultimate strength exceeds that needed to withstand all factored loads and load
+combinations specified in SIE/ASCE 7-02 “Minimum Design Loads for Buildings and Other Structures”.
+First Order Reliability Analysis shall demonstrate a reliability coefficient (Beta) of not less than 3.54 for
+any failure mode that could result in any portion of the WTG falling to the ground. In lieu of First Order
+Reliability Analysis, adequate structural reliability may be demonstrated via analysis methods specified
+in the Michigan Building Code.
+XXI-58
+Table of Contents
+
+Otsego County Zoning Ordinance

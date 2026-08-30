@@ -1,0 +1,4 @@
+CHAPTER 450: CORPORATIONS (Corporations (Nonprofit Corp Act))
+MCL 450.841: 
+
+450.841 Sec. 11.If a law requires a signature or record to be notarized, acknowledged, verified, or made under oath, the requirement is satisfied if the electronic signature of the person authorized to perform those acts, together with all other information required to be included by other applicable law, is attached to or logically associated with the signature or record.

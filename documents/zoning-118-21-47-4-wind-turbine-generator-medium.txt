@@ -1,0 +1,60 @@
+21.47.4 Wind Turbine Generator — MEDIUM
+A zoning permit shall be issued only when the following requirements are met:
+a. Zoning District: Permitted as an Accessory Use to an allowed Principal Use only in AR, FR & I
+Zoning Districts.
+b. Height: Shall have a WIND TURBINE GENERATOR HEIGHT greater than sixty feet (60’) but less
+than or equal to one hundred twenty feet (120’).
+c. Property Line Setback: Shall not be closer than one and one-half (1½) times the Wind Turbine
+Generator Height to the nearest property line from the base of the WTG.
+d. Riparian Zone Setback: Shall not be closer than one and one-half (1½) times the Wind Turbine
+Generator Height to the nearest ordinary high water mark of lakes in the County that appear on the most
+recent US Geological Survey Quadrangle maps. Shall not be closer than one and one-half (1½) times the
+Wind Turbine Generator Height to the nearest banks of rivers, streams, and flowages of water in the
+County that appear on the most recent US Geological Survey Quadrangle maps. These setbacks are
+measured on a horizontal plane.
+e. Avian Corridors: WTG-Medium should not be located in historic avian migration pathways or
+frequent use corridors.
+f. Number of Units: Lots located in AR, FR & I zoning districts shall be allowed one (1) WTG – Medium
+on a single lot if the lot meets or exceeds the Minimum Lot Area requirements of Article 17 and
+provided all the requirement for WTG – Medium are met.
+1. The Number of Units may be increased to a density not to exceed one (1) WTG-Medium per ten (10)
+acres (435,600 sq. ft.).
+2. WTG – Medium shall be sited no closer than one and one-half (1½) times the height of the taller WTG
+from its base to the base of an adjacent WTG.
+g. Sound Pressure Level: Maximum sound pressure level emanating from the WTG and measured on the
+dB(A) scale at any adjacent property line or any adjoining public or private road with respect to the
+property on which the WTG is located shall be dependent on the zoning district in which the WTG is
+located per the following schedule:
+Zoning District
+R1, R2, R3, RR, B1
+FR, AR
+B2, B3, HX
+I
+
+Day dB(A)
+Not permitted
+40
+Not permitted
+60
+
+Night dB(A)
+Not permitted
+35
+Not permitted
+50
+
+For the purposes of this article, “Day” shall be defined as the hours between 7:00 AM and 7:00 PM and
+“Night” shall be defined as the hours between 7:00 PM and 7:00 AM. Sound pressure levels may be
+exceeded during short term events such as utility outages and/or windstorms.
+h. Code Requirements: Shall meet all applicable state and local construction and electrical codes, and
+other permits required by law. Wiring for WTG – Medium shall be underground or enclosed in the
+tower.
+i. Safety: WTG – Medium shall have an automatic braking, governing, or feathering system and shall be
+maintained in accordance with Underwriters Laboratories (UL) listed standards.
+j. Blade clearance: The minimum blade tip clearance from grade, structure, or appurtenance shall be
+twenty feet (20’).
+
+XXI-51
+Table of Contents
+
+Otsego County Zoning Ordinance

@@ -1,0 +1,4 @@
+CHAPTER 450: CORPORATIONS (Corporations (Nonprofit Corp Act))
+MCL 450.2303c: 
+
+450.2303c Sec. 303c.(1) A corporation shall not issue bonds that are convertible into shares or shares convertible into other shares of a corporation unless 1 of the following conditions is satisfied:(a) A sufficient number of authorized but unissued shares of the appropriate class are reserved by the board to be issued only in satisfaction of the conversion privileges of the convertible bonds or shares when issued.(b) The aggregate conversion privileges of the convertible bonds or shares when issued do not exceed the aggregate of any shares reserved under subdivision (a) and any additional shares which the board may authorize under section 303b(3).(2) The corporation shall cancel bonds that are converted into shares. Unless otherwise provided in the articles of incorporation, shares that are converted into other shares shall be restored to the status of authorized but unissued shares.

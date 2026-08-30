@@ -1,0 +1,4 @@
+CHAPTER 560: SUBDIVISION CONTROL ACT OF 1967 (Land Division)
+MCL 560.137: 
+
+560.137 Sec. 137.All public or private grounds, streets, roads and alleys included in the plat shall be shown as follows:(a)All public or private commons, parks and other grounds except streets and alleys, by their boundaries, bearings and distances and names.(b)All streets and roads by their bearings, widths and names.(c)All streets, roads or alleys not dedicated to public use shall be marked "private" and named.(d)All curved portions of streets, roads or alleys shall be defined by curve data including points of curvature, points of tangency, points of compound curvature, radii of curves, central angles and the length and bearing of its long chord.(e)Curve data may be shown by a curve data chart or table.

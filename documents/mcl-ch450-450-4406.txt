@@ -1,0 +1,4 @@
+CHAPTER 450: CORPORATIONS (Corporations (Nonprofit Corp Act))
+MCL 450.4406: 
+
+450.4406 Sec. 406.A manager is an agent of the limited liability company for the purpose of its business, and the act of a manager, including the execution in the limited liability company name of any instrument, that apparently carries on in the usual way the business of the limited liability company of which the manager is a manager binds the limited liability company, unless both of the following apply:(a) The manager does not have the authority to act for the limited liability company in that particular matter.(b) The person with whom the manager is dealing has actual knowledge that the manager lacks authority to act or the articles of organization or this act establishes that the manager lacks authority to act.

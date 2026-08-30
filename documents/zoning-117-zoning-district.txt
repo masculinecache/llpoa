@@ -1,0 +1,61 @@
+Zoning District
+R1, R2, R3, RR, B1
+FR, AR
+B2, B3, HX
+I
+
+Day dB(A)
+40
+40
+50
+60
+
+Night dB(A)
+35
+35
+45
+50
+
+For the purposes of this article, “Day” shall be defined as the hours between 7:00 AM and 7:00 PM and
+“Night” shall be defined as the hours between 7:00 PM and 7:00 AM. Sound pressure levels may be
+exceeded during short term events such as utility outages and/or windstorms.
+g. Code Requirements: Shall meet all applicable state and local construction and electrical codes, and
+other permits required by law. Wiring for WTG-Small shall be underground or enclosed in the tower.
+h. Safety: WTG-Small shall have an automatic braking, governing or feathering system and shall be
+maintained in accordance with Underwriters Laboratories (UL) listed standards.
+i. Blade clearance: The minimum blade tip clearance from grade, structure or appurtenance shall be
+fifteen feet (15’)
+j. Tower: Shall be a free-standing monopole (guy wires are not permitted) that shall meet or exceed tower
+specifications provided by the manufacturer of the generator or have a design approved by an
+independent professional engineer licensed in the State of Michigan.
+k. Shadow flicker: The WTG – Small shall be designed, sited and operated in such a manner to minimize
+shadow flicker on a roadway. In addition, the WTG – Small shall be designed, sited and operated in a
+manner to prevent shadow flicker on any existing structures located off the property on which the WTG
+– Small is erected. The owner and/or operator shall prohibit shadow flicker on any future lawfully
+constructed structure located off the property on which the WTG-Small is erected.
+l. Sale of electric power via net metering is permitted per applicable state law.
+m. The WTG – Small shall, subject to any applicable standards of the FAA, be a neutral color so as to
+reduce visual obtrusiveness. Excessively bright or neon colors are not acceptable. The Planning
+Commission, however, may approve an alternate color if the WTG – Small is located within an avian
+migratory route or if an alternate color would otherwise benefit the neighborhood.
+n. The WTG – Small shall not be artificially lighted unless required, in writing, by the FAA. Where the
+FAA requires lighting, the lighting shall be the lowest intensity allowable under FAA regulations, the
+fixtures shall be shielded and directed to the greatest extent possible to minimize glare and visibility
+from the ground, and no strobe lighting shall be permitted, unless expressly required by the FAA.
+o. The WTG – Small shall be designed and constructed in such a manner that access is limited, to the
+extent possible, to authorize personnel only.
+p. The WTG – Small shall be constructed and operated so that it does not interfere with television, radio,
+cellular telephone or microwave reception in neighboring areas. If degradation of television, radio,
+cellular telephone or microwave reception occurs as the result of the WTG – Small, the owner and/or
+operator shall take such action as to correct the television, radio, cellular telephone or microwave
+reception.
+q. The WTG – Small shall have no advertising painted on or attached to the tower or any other structure of
+the WTG.
+r. A WTG – Small that is not operated for a continuous period of twelve (12) months shall be removed by
+the owner of the WTG within ninety (90) days of receipt of a notice from the county requiring removal.
+s. The owner shall be responsible for the ongoing compliance with the standards of this ordinance.
+
+XXI-50
+Table of Contents
+
+Otsego County Zoning Ordinance

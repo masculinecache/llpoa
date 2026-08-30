@@ -1,0 +1,48 @@
+SOLAR ENERGY SYSTEM: A device or structural design feature, a substantial purpose of which is to
+provide daylight for interior lighting or provide for the collection, storage and distribution of solar energy
+for space heating or cooling, electricity generation, or water heating.
+SOLAR ENERGY SYSTEM, ACTIVE: A solar energy system whose primary purpose is to harvest
+energy by transforming solar energy into another form of energy or transferring heat from a collector to
+another medium using mechanical, electrical, or chemical means.
+SOLAR ENERGY SYSTEM, GRID-INTERTIE: A photovoltaic system that is connected to an electric
+circuit served by an electric utility.
+SOLAR ENERGY SYSTEM, GROUND-MOUNTED: An Active Solar Energy System that is
+structurally mounted to the ground and is not roof-mounted; may be of any size (small-, medium- or largescale).
+SOLAR ENERGY SYSTEM, LARGE-SCALE: An Active Solar Energy System that occupies more than
+40,000 square feet of grid surface area (equivalent to a rated nameplate capacity of about 250kW DC or
+greater).
+SOLAR ENERGY SYSTEM, MEDIUM-SCALE: An Active Solar Energy System that occupies more
+than 1,750 but less than 40,000 square feet of grid surface area (equivalent to a rated nameplate capacity of
+about 10 - 250 kW DC).
+SOLAR ENERGY SYSTEM, OFF-GRID: A photovoltaic solar energy system in which the circuits
+energized by the solar energy system are not electrically connected in any way to electric circuits that are
+served by an electric utility.
+SOLAR ENERGY SYSTEM, PASSIVE: A solar energy system that captures solar light or heat without
+transforming it to another form of energy or transferring the energy via a heat exchanger.
+SOLAR ENERGY SYSTEM, ROOF-MOUNTED: An Active Solar Energy System that is structurally
+mounted to the roof of a building or structure; may be of any size (small-, medium- or large-scale).
+SOLAR ENERGY SYSTEM, SMALL-SCALE: An Active Solar Energy System that occupies 1,750
+square feet of grid surface area or less (equivalent to a rated nameplate capacity of about 10 kW DC or
+less).
+SOLAR THERMAL SYSTEM: An Active Solar Energy System that uses collectors to convert the sun’s rays
+into useful forms of energy for water heating, space heating, or space cooling.
+SOUND LEVEL METER: An instrument used to measure sound pressure levels. This instrument shall
+comply with the standards for type 1 or type 2 sound level meters as specified in the American National
+Institute Standard ANSI S1.4-1983, or its successor provision.
+SOUND PRESSURE LEVEL: Twenty (20) times the logarithm to the base ten of the ratio of the RMS sound
+pressure to the reference pressure of twenty (20) micropascals. This sound pressure level is expressed in
+decibels (dB).
+STORY: That part of a building, except a mezzanine and/or basement, between the surface of one (1) floor
+and the surface of the next floor, or if there is no floor above, then the ceiling next above.
+STREET OR ROAD: A right-of-way, affording the principal means of access to abutting property. Alleys
+differ in that they offer a secondary means of access to abutting property.
+STRUCTURE: Anything constructed or erected, the use of which requires location on the ground or
+attachment to something having location on the ground.
+TEMPORARY BUILDING OR USE: A use of a building or premises permitted by the Board of Appeals
+to exist during periods of construction of the main building or use, or for special events.
+TOTAL SOUND LEVEL: That measured which represents the summation of the sounds from the sound
+source under investigation and the neighborhood residual sounds which affect a given place at a given times.
+II-12
+Table of Contents
+
+Otsego County Zoning Ordinance

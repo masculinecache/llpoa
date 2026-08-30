@@ -1,0 +1,4 @@
+CHAPTER 450: CORPORATIONS (Corporations (Nonprofit Corp Act))
+MCL 450.839: 
+
+450.839 Sec. 9.(1)An electronic record or electronic signature is attributable to a person if it is the act of the person. The act of the person may be shown in any manner, including a showing of the efficacy of any security procedure applied to determine the person to which the electronic record or electronic signature was attributable.(2)The effect of an electronic record or electronic signature attributed to a person under subsection (1) is determined from the context and surrounding circumstances at the time of its creation, execution, or adoption, including any agreements of the parties, and otherwise as provided by law.

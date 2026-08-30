@@ -1,0 +1,49 @@
+f. An avian study based on U.S. Fish and Wildlife Service, “Guidelines to Avoid and Minimize Wildlife
+Impacts from Wind Turbines”, Federal Register: July 10, 2003 (Volume 68, Number 132), or as updated
+or amended, and in effect at the time of the WTG – Large construction application, shall be provided.
+g. Analysis, measurements and projections of WTG – Large noise propagation shall conform to
+International Electromechanical Commission (IEC) Standard 61400-11 Part 11, as that standard may be
+amended or updated from time to time. Acoustic Noise Measurement Techniques shall include: optional
+noise directivity requirements (see below), infrasound (low frequency) projections, low frequency noise
+(between twenty and one hundred Hz (20-100)) measurement and analysis and impulsivity measurement
+(noise pressure of potential “thumping” sounds). Analysis shall include but is not limited to:
+1. A survey of the existing ambient background noise levels. Analysis shall include daytime
+measurements and also at least two (2) ambient noise measurements between 9:00 PM and 11:59 PM
+and two (2) between 1:00 AM and 5:00 AM.
+2. A prediction of the WTG – Large noise levels at the property border. This can be made with
+manufacturer’s data or data from a private testing agency for proposed WTGs or by direct
+measurement for WTGs in place, so long as measurements are conducted according to IEC and
+61400-11 part 11 as that standard may be amended or updated from time to time. Including
+infrasound and low frequency noise between twenty and one hundred Hz (20-100), modeling must
+identify likely pure tone sources.
+3. Identification and support for a model for sound propagation. The model may be hemispherical or
+spherical but particular attention must be paid to the noise propagation downwind of the proposed
+installation site and the propagation of sound at differing atmospheric densities.
+4. A comparison of calculated wind sound pressure levels with and without the WTG or proposed
+WTGs. This confirms the baseline for permitted sound levels once the WTGs are operating shall be
+provided.
+h. Written documentation that the applicant has notified the FAA, Gaylord Regional Airport and any other
+applicable state and federal regulatory agencies of the proposed WTG – Large.
+i. Elevation drawings, computer generated sound models or simulations and other aids or documentation
+projecting the sound reaching off the property, on which the WTG – Large will be constructed and the
+extent and duration of the sound shall be provided.
+j. Elevation drawings, computer generated photographic simulations and other images or other visual aids
+that depict how the WTG – Large tower and all accessory structures will appear as constructed on the
+proposed site from vantage points north, south, east and west of the WTG – Large tower shall be
+provided.
+k. A detailed written statement, with supporting evidence, demonstrating how the proposed WTG – Large
+will comply with all of the standards for approval shall be provided.
+l. Written documentation projecting the shadow flicker on any existing structures located off the property
+on which the WTG – Large will be constructed, and the extent and duration of the flicker on these
+existing structures.
+21.47.5.2 Standards for WTG – LARGE Approval
+The Planning Commission shall approve, or approve with conditions, an application for WTG – Large only
+upon a finding that the proposed WTG – Large complies with all of the following applicable standards, and
+the approval standards as found in Article 19 of the Zoning Ordinance.
+a. Zoning District: Permitted Subject to Special Conditions in AR & FR.
+b. The proposed site shall have documented annual wind resources sufficient for the operation of the
+proposed WTG – Large. The wind resource documentation shall detail, at a minimum, ambient wind at
+XXI-53
+Table of Contents
+
+Otsego County Zoning Ordinance

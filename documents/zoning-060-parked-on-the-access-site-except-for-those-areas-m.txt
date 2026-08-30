@@ -1,0 +1,62 @@
+parked on the access site except for those areas more than one hundred sixty feet (160’) from the ordinary
+high-water mark as outlined in
+18.11 S-2.
+SECTION 18.11 SITE DESIGN STANDARDS
+The following standards shall be used for development and use of non-public lakefront access sites. These
+standards do not preclude, and are in addition to, standards set forth by the zoning districts established and
+other Articles contained within this ordinance.
+S-1 There shall be a minimum setback line of two hundred thirty-five feet (235’), as measured from the
+ordinary high-water mark, landward, at ninety degrees (90°) and/or radial to the shoreline, to any
+property line, dwelling unit or room. [Refer to Rule 3 for increase of setback line.]
+S-2 There shall be a minimum of one hundred sixty feet (160’), as measured from the ordinary high-water
+mark, landward, at ninety degrees (90°) and/or radial to the shoreline. This shall be the minimum
+depth of open land.
+S-3 The area between number one (1) and two (2) of this section may be used as a parking area, as
+required in Section 18.10.6.
+S-4 The following components, equations and rules shall be used in determining the minimum open land
+area in square feet, minimum lake frontage in lineal feet, and maximum number of dwelling units or
+rooms to utilize the non-public lakefront access site.
+FORMULA COMPONENTS
+A. Number of dwelling units, condominium dwelling units and motel/hotel rooms
+B. Eight thousand square feet [8,000 sq. ft. is the minimum amount of open land area per dwelling unit or
+room]
+C. Fifty feet (50’) [required amount of lake shoreline per dwelling unit or room]
+D. Total amount required of lake shoreline in linear feet
+E. Total amount required of open land area in square feet
+Rule 1 In instances where the number of dwelling units or rooms is known, the following equations shall be
+used to determine minimum amount of open land area in square footage (E), and the minimum amount of
+lake-shoreline in linear feet (D).
+Equations: A x B = (E)
+
+A x C = (D)
+
+Rule 2 In instances where the amount of open land area (square footage) and lake-shoreline (linear feet) is
+known, the following equations shall be used to determine the maximum number of dwelling units or rooms
+(A) permitted to use the open land area. The lesser of either equation shall be used as the maximum number
+of dwelling units or rooms permitted.
+D
+Equation:
+
+E
+= (A)
+
+C
+
+= (A)
+B
+
+Rule 3 In instances where a lakefront access site is a combination of open land area (S-6) per dwelling unit
+or room, it shall not be permitted to include wetlands (S-7); the setback line as in (S-1) shall be increased in
+the following manner:
+Equation
+
+(A x 11,750 sq. ft.) + (Wetland sq. ft.)
+= Setback line (ft.)
+(A x C)
+
+S-5 When determining the minimum square footage of open land area (S-6) per dwelling unit or room, it
+shall not be permitted to include wetlands (S-7). [Refer to Rule 3]
+XVIII-4
+Table of Contents
+
+Otsego County Zoning Ordinance

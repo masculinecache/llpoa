@@ -1,0 +1,30 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "llpoa-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-18",
+  "routes": [
+    { "pattern": "llpoa-api.codevex.app", "custom_domain": true }
+  ],
+  "containers": [
+    {
+      "class_name": "LLPOA",
+      "image": "./Dockerfile",
+      "max_instances": 1
+    }
+  ],
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "LLPOA",
+        "class_name": "LLPOA"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": ["LLPOA"]
+    }
+  ]
+}

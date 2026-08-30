@@ -1,0 +1,12 @@
+{
+  "name": "llpoa-bylaw-search",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd frontend && npm ci && npm run build"
+  },
+  "devDependencies": {
+    "@cloudflare/containers": "^0.3.7",
+    "wrangler": "^4.0.0"
+  }
+}
