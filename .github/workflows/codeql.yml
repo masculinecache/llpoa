@@ -12,6 +12,7 @@ jobs:
     name: Analyze (${{ matrix.language }})
     runs-on: ubuntu-latest
     permissions:
+      actions: read
       security-events: write
       packages: read
       contents: read
