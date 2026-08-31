@@ -11,11 +11,7 @@ jobs:
   analyze:
     name: Analyze (${{ matrix.language }})
     runs-on: ubuntu-latest
-    # Skip the SARIF upload until code scanning is enabled in repo settings
-    # (handled separately). Set CODEQL_UPLOAD_SARIF to true to start uploading
-    # results once the feature is enabled.
-    env:
-      CODEQL_UPLOAD_SARIF: false
+
     permissions:
       actions: read
       security-events: write
@@ -45,3 +41,7 @@ jobs:
         uses: github/codeql-action/analyze@v3
         with:
           category: "/language:${{ matrix.language }}"
+          # Code scanning is not enabled in repo settings yet (handled
+          # separately); uploading SARIF there would fail the job. Flip this
+          # to true once code scanning is enabled.
+          upload: false
