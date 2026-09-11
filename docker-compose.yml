@@ -53,10 +53,7 @@ services:
       # broken TLS redirect (r.TLS==nil && r.Header["X-Forwarded-Proto"]=="https" causes
       # http.Redirect to r.URL.String() which produces "https:///" because r.URL.Host is empty)
       proxy.llpoa.middlewares.modify_request.set_headers.X-Forwarded-Proto: ""
-      proxy.llpoa.middlewares.oidc: |
-        client_id: ${GOOGLE_OAUTH_CLIENT_ID:-}
-        client_secret: ${OAUTH_CLIENT_SECRET:-}
-        allowed_users:
-          - ${ALLOWED_USER:-}
+      # OIDC middleware removed 2026-09-03 per captain: rely on the app's own
+      # auth; PocketID stays available if a route needs it again.
 
     restart: unless-stopped
