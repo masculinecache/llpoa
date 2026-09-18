@@ -5,8 +5,10 @@ reviews:
     - "!**/*.lock"
     - "!**/package-lock.json"
     - "!**/bun.lockb"
-  review_instructions: |
-    Focus on Go + React + RAG security.
-    Check search index handling and query sanitization.
-    Verify embeddings API key handling is secure.
-    Flag exposed secrets or insecure data retrieval patterns.
+  path_instructions:
+    - path: "**/*"
+      instructions: |
+        Focus on Go + React + RAG security.
+        Check search index handling and query sanitization.
+        Verify embeddings API key handling is secure.
+        Flag exposed secrets or insecure data retrieval patterns.
